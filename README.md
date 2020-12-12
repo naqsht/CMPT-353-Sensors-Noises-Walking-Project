@@ -5,13 +5,13 @@ Boxiao Wang (boxiaow@sfu.ca)
 
 **Required Libraries**
 - numpy
--     pandas
--     matplotlib.pyplot
--     math
--     scipy
--     statsmodels
--     statistics
--     sklearn
+- pandas
+- matplotlib.pyplot
+- math
+- scipy
+- statsmodels
+- statistics
+- sklearn
 
 
 
