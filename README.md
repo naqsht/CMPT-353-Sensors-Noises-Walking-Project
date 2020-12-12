@@ -4,14 +4,14 @@ Boxiao Wang (boxiaow@sfu.ca)
 
 
 **Required Libraries**
-numpy
-pandas
-matplotlib.pyplot
-math
-scipy
-statsmodels
-statistics
-sklearn
+    numpy
+    pandas
+    matplotlib.pyplot
+    math
+    scipy
+    statsmodels
+    statistics
+    sklearn
 
 
 **Order of Execution for the Files**
